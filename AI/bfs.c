@@ -87,3 +87,21 @@ void main() {
 
 }
 
+
+//  Enter the number of vertices:3
+
+//  Enter graph data in matrix form:
+// 0
+// 1
+// 1
+// 0
+// 1
+// 0
+// 1
+// 1
+// 1
+
+//  Enter the starting vertex:1
+
+//  The node which are reachable are:
+// 1	2	3	

@@ -170,3 +170,22 @@ int main()
     return 0;
 }
 
+// Enter the Capacity of jug1 : 4
+// Enter the Capacity of jug2 : 3
+
+// Required Water in jug1 : 2
+// Required Water in jug2 : 0
+
+// Soultion : 
+// (0 , 0)
+// (0 , 3)
+// (4 , 0)
+// (3 , 0)
+// (1 , 3)
+// (3 , 3)
+// (1 , 0)
+// (4 , 2)
+// (0 , 1)
+// (0 , 2)
+// (4 , 1)
+// (2 , 0)

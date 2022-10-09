@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 #include<string.h>
 #include<unistd.h>
 #include<sys/types.h>
@@ -244,3 +243,28 @@ break;
 }
 }return 1;
 }
+// 301342786
+// Output:-
+// |2|| ||8|
+// |5||4||3|
+// |6||1||7|
+// enter value to change its position to blank space
+// 4
+// [H[2J[3J|2||4||8|
+// |5|| ||3|
+// |6||1||7|
+// enter value to change its position to blank space
+// 3
+// [H[2J[3J|2||4||8|
+// |5||3|| |
+// |6||1||7|
+// enter value to change its position to blank space
+// 7
+// [H[2J[3J|2||4||8|
+// |5||3||7|
+// |6||1|| |
+// enter value to change its position to blank space
+// 1
+// [H[2J[3J|2||4||8|
+// |5||3||7|
+// |6|| ||1|
