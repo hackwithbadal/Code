@@ -460,3 +460,15 @@ return 0;
 
 }
 
+// Value of N: 5
+
+// Value of Q: 4
+
+// Value of K: 3
+
+
+// |Q|K|K|K| |
+// | | |Q| | |
+// | | | | | |
+// | |Q| | | |
+// | | | |Q| |
